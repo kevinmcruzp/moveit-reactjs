@@ -16,6 +16,8 @@ interface CountdownContextData {
   resetCountdown: () => void;
 }
 
+
+
 interface CountdownProviderProps {
   children: ReactNode;
 }
